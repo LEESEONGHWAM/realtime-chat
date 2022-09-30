@@ -1,0 +1,13 @@
+.searchInput {
+    width: 150px;
+    height: 20px;
+
+    border: 1px solid coral;
+    outline-color: coral;
+    
+    padding: 10px 7px;
+    margin: 0 auto;
+}
+.searchInput::placeholder {
+    color: coral;
+}
